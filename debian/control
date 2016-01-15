@@ -1,0 +1,23 @@
+Source: trusty-gcc
+Maintainer: Andrew Stone <a@stoney.io>
+Section: devel
+Priority: optional
+Standards-Version: 3.9.6
+
+Package: gcc
+Architecture: any
+Multi-Arch: same
+Depends:
+	gcc-5
+Description: Upgrade to latest version of gcc
+	Meta package that pulls the latest version of gcc from ubuntu-tools and
+	makes it the default compiler.
+
+Package: g++
+Architecture: any
+Multi-Arch: same
+Depends:
+	g++-5
+Description: Upgrade to latest version of g++
+	Meta package that pulls the latest version of g++ from ubuntu-tools and
+	makes it the default compiler.

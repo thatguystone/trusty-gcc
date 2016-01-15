@@ -1,0 +1,5 @@
+trusty-gcc (4:5.3.0-1~stone1) trusty; urgency=medium
+
+  * Use gcc/g++-5
+
+ -- Andrew Stone <a@stoney.io>  Thu, 14 Jan 2016 17:03:16 -0500

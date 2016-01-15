@@ -1,0 +1,13 @@
+Format: http://dep.debian.net/deps/dep5
+
+Files: *
+Copyright: 2016 Andrew Stone
+Author: Andrew Stone <a@stoney.io>
+License: GPL3
+	These scripts are free software; you can redistribute it and/or modify it
+	under the terms of the GNU General Public License as published by the
+	Free Software Foundation; either version 3, or (at your option) any
+	later version.
+	.
+	On Debian GNU/Linux systems, the complete text of the GNU General
+	Public License can be found in `/usr/share/common-licenses/GPL3'.

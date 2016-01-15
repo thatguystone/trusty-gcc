@@ -1,0 +1,3 @@
+[debs]
+envs = trusty-amd64
+remotes = default, ihr

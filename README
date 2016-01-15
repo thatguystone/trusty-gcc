@@ -1,0 +1,4 @@
+This metapackage provides gcc/g++-5. By default, it symlinks over /usr/bin/gcc and /usr/bin/g++, so it might break things.
+
+It pulls gcc-5 from:
+	deb http://ppa.launchpad.net/ubuntu-toolchain-r/test/ubuntu trusty main
