@@ -1,4 +1,4 @@
-trusty-gcc (4:5.3.0-1~stone1) trusty; urgency=medium
+trusty-gcc (4:5.3.0~stone1) trusty; urgency=medium
 
   * Use gcc/g++-5
 
